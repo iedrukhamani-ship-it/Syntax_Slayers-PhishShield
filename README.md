@@ -1,5 +1,18 @@
 PhishShield: Real-time Phishing URL Detector
 
+Team Name:- Syntax Slayers
+Team members:-
+1.) Gagan Chaudhary
+2.)J.Tirupati Rao
+3.)Samiksha Verma
+4.)Nomita Hirwani
+
+Problem Statement:- Develop a browser extension or app that can detect and block phishing websites in real-time, with a scoring system and visual alert for the user.
+
+Suggested Tech Stack:
+
+ML (Scikit-learn), React/Vanilla JS for extension, VirusTotal API, Flask backend
+
 What this is:
 - A Chrome extension + local Python server that detect phishing in real-time.
 - Color-coded risk, hover tips on links, auto-block dangerous pages, and “Go back/Proceed” actions.
